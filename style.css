@@ -1,26 +1,38 @@
 body {
+	margin-bottom: 100px;
+	padding right: 100px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	border-style: double;
+	border-color: #990000;
+	border-width: 10px;
+	font-family: Garamond;
 	text-align: left;
 	text-align: top;
-	margin-left: 175px;
-	margin-top: 100px
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 100px;
+
 }
 img {
-	border-style: groove;
-	border-color: black;
-	margin-right: 175px;
-	margin-top: 100px;
+	margin-right: 100px;
+	margin-top: 15px;
 }
 h1 {
-	font-family: "Century Gothic", CenturyGothic, AppleGothic;
-	font-size: 75px;
-	color: grey;
+	font-family: "Garamond", san-serif;
+	font-weight: 200;
+	font-size: 50px;
+	color: #990000;
 	text-align: left;
 	text-align: top;
 }
-h3 {
-	font-family: "Century Gothic", CenturyGothic, AppleGothic;
-	color: grey;
-	font-size: 30px;
-	text-align: left;
-	text-align: top;
+h2 {
+	color: #A9A9A9;
+	font-family: "Garamond", san-serif;
+	font-weight: 200;
+	font-size: 65px;
+	text-align: center;
+}
+h1, h2 {
+	line-height: 2px;
 }
