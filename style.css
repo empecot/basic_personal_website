@@ -36,3 +36,9 @@ h2 {
 h1, h2 {
 	line-height: 2px;
 }
+h3 {
+	font-family: "Garamond", san-serif;
+	color: #A9A9A9;
+	font-size: 30px;
+	text-align: center;
+}
