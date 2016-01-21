@@ -15,26 +15,29 @@ body {
 	margin-top: 100px;
 }
 a {
+	text-decoration: none;
 	color: #990000;
 }
 h1 {
 	font-family: "Garamond", san-serif;
+	text-decoration: none;
 	font-weight: 200;
 	font-size: 50px;
 	color: #990000;
 	text-align: left;
 	text-align: top;
-	padding-bottom: 0px;
-	a link color: #A9A9A9; text-decoration: none; 
-    a hover color: #A9A9A9; text-decoration: none;
-    a active color: #A9A9A9; text-decoration: none;
- }
+	a link color: #A9A9A9; 
+    a hover color: #A9A9A9; 
+    a active color: #A9A9A9; 
+    a visited color: #A9A9A9;
+}
 h2 {
 	color: #A9A9A9;
 	font-family: "Garamond", san-serif;
 	font-weight: 200;
 	font-size: 60px;
 	margin-left: 70px;
+	font-width: 30px;
 	opacity: .8
 }
 h1, h2 {
@@ -45,17 +48,27 @@ h3 {
 	color: #A9A9A9;
 	font-size: 30px;
 	text-align: center;
-	}
+}
 h4 {
 	margin-right: 150px;
 	margin-top: 4px;
+	margin-bottom: 13px;
+	font-width: 15px;
 	color: #696969;
 	text-align: right;
-	font-size: 45px;
+	font-size: 50px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300
+
 }
- .interiors_pics {
- 	border-style: solid;
- 	border-color: #990000;
-}  
+.interiors {
+	color: #990000;
+	font-family: 'Open Sans', sans-serif;
+	padding: 0px;
+	font-size: 25px;
+	font-weight: 300;
+	a link color: #A9A9A9; text-decoration: underline;
+    a hover color: #A9A9A9; text-decoration: underline;
+    a active color: #A9A9A9; text-decoration: underline;
+    a visited color: #A9A9A9; text-decoration: underline;
+}
