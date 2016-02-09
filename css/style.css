@@ -50,6 +50,7 @@ h3 {
 	text-align: center;
 }
 h4 {
+	letter-spacing: 3px;
 	margin-right: 150px;
 	margin-top: 4px;
 	margin-bottom: 13px;
@@ -59,16 +60,17 @@ h4 {
 	font-size: 50px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300
-
 }
 .interiors {
 	color: #990000;
 	font-family: 'Open Sans', sans-serif;
-	padding: 0px;
 	font-size: 25px;
 	font-weight: 300;
 	a link color: #A9A9A9; text-decoration: underline;
     a hover color: #A9A9A9; text-decoration: underline;
     a active color: #A9A9A9; text-decoration: underline;
     a visited color: #A9A9A9; text-decoration: underline;
+}
+#modern_farmhouse {
+	style="width:385px;height:275px"/>
 }
